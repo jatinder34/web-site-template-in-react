@@ -22,15 +22,14 @@ export default function HomePage(props) {
   const classes = useStyles();
   return (
     <React.Fragment>
-      
       <Parallax image={require("assets/img/bg2.jpg")}>
         <div className={classes.container}>
           <GridContainer>
             <GridItem>
               <div className={classes.brand}>
-                <h1 className={classes.title}>Material Kit React.</h1>
+                <h1 className={classes.title}>React Development</h1>
                 <h3 className={classes.subtitle}>
-                  A Badass Material-UI Kit based on Material Design.
+                  React is a JavaScript library for building user interfaces
                 </h3>
               </div>
             </GridItem>

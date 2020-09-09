@@ -14,7 +14,7 @@ const MainLayout = ({ children, props }) => {
         fixed
         color="transparent"
         changeColorOnScroll={{
-          height: 400,
+          height: 100,
           color: "white"
         }}
         {...rest}
