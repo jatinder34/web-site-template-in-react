@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/web-site-template-in-react/static/css/main.c5a3ee5c.chunk.css",
-    "main.js": "/web-site-template-in-react/static/js/main.a73f57da.chunk.js",
-    "main.js.map": "/web-site-template-in-react/static/js/main.a73f57da.chunk.js.map",
-    "runtime-main.js": "/web-site-template-in-react/static/js/runtime-main.26801119.js",
-    "runtime-main.js.map": "/web-site-template-in-react/static/js/runtime-main.26801119.js.map",
-    "static/js/2.92f41f0f.chunk.js": "/web-site-template-in-react/static/js/2.92f41f0f.chunk.js",
-    "static/js/2.92f41f0f.chunk.js.map": "/web-site-template-in-react/static/js/2.92f41f0f.chunk.js.map",
+    "main.js": "/web-site-template-in-react/static/js/main.3fed0542.chunk.js",
+    "main.js.map": "/web-site-template-in-react/static/js/main.3fed0542.chunk.js.map",
+    "runtime-main.js": "/web-site-template-in-react/static/js/runtime-main.e29c14da.js",
+    "runtime-main.js.map": "/web-site-template-in-react/static/js/runtime-main.e29c14da.js.map",
+    "static/js/2.d288fceb.chunk.js": "/web-site-template-in-react/static/js/2.d288fceb.chunk.js",
+    "static/js/2.d288fceb.chunk.js.map": "/web-site-template-in-react/static/js/2.d288fceb.chunk.js.map",
     "index.html": "/web-site-template-in-react/index.html",
-    "precache-manifest.9268b3063b092dbc96d8da4d6950c087.js": "/web-site-template-in-react/precache-manifest.9268b3063b092dbc96d8da4d6950c087.js",
+    "precache-manifest.2a1196b7dcdfd0abdcf2023d5461e858.js": "/web-site-template-in-react/precache-manifest.2a1196b7dcdfd0abdcf2023d5461e858.js",
     "service-worker.js": "/web-site-template-in-react/service-worker.js",
     "static/css/main.c5a3ee5c.chunk.css.map": "/web-site-template-in-react/static/css/main.c5a3ee5c.chunk.css.map",
-    "static/js/2.92f41f0f.chunk.js.LICENSE.txt": "/web-site-template-in-react/static/js/2.92f41f0f.chunk.js.LICENSE.txt",
+    "static/js/2.d288fceb.chunk.js.LICENSE.txt": "/web-site-template-in-react/static/js/2.d288fceb.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/web-site-template-in-react/static/media/avatar.f1d71f77.jpg",
     "static/media/bg.jpg": "/web-site-template-in-react/static/media/bg.e5241971.jpg",
     "static/media/bg2.jpg": "/web-site-template-in-react/static/media/bg2.84378183.jpg",
@@ -24,7 +24,7 @@
     "static/media/kendall.jpg": "/web-site-template-in-react/static/media/kendall.e0508cc9.jpg",
     "static/media/landing-bg.jpg": "/web-site-template-in-react/static/media/landing-bg.df8fd3ef.jpg",
     "static/media/landing.jpg": "/web-site-template-in-react/static/media/landing.08e18cb9.jpg",
-    "static/media/logo.svg": "/web-site-template-in-react/static/media/logo.495d93cc.svg",
+    "static/media/logo.svg": "/web-site-template-in-react/static/media/logo.09fc5cf4.svg",
     "static/media/mariya-georgieva.jpg": "/web-site-template-in-react/static/media/mariya-georgieva.4575c40b.jpg",
     "static/media/olu-eletu.jpg": "/web-site-template-in-react/static/media/olu-eletu.4112cbc1.jpg",
     "static/media/profile-bg.jpg": "/web-site-template-in-react/static/media/profile-bg.baf6b40a.jpg",
@@ -37,9 +37,9 @@
     "static/media/studio-5.jpg": "/web-site-template-in-react/static/media/studio-5.ef5c30ea.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.26801119.js",
-    "static/js/2.92f41f0f.chunk.js",
+    "static/js/runtime-main.e29c14da.js",
+    "static/js/2.d288fceb.chunk.js",
     "static/css/main.c5a3ee5c.chunk.css",
-    "static/js/main.a73f57da.chunk.js"
+    "static/js/main.3fed0542.chunk.js"
   ]
 }
